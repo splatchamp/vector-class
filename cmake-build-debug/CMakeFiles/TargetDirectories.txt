@@ -1,0 +1,3 @@
+C:/Users/splat/CLionProjects/Lab2-Vector/cmake-build-debug/CMakeFiles/Lab2_Vector.dir
+C:/Users/splat/CLionProjects/Lab2-Vector/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/splat/CLionProjects/Lab2-Vector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
