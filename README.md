@@ -1,1 +1,1 @@
-# vector-class
+Custom vector class for C++
